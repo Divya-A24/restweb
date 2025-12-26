@@ -197,8 +197,7 @@ def contact(request):
     ```
 
 ## OUTPUT:
-README.md Screenshot 2025-12-26 094648.png
-README.md Screenshot 2025-12-26 094705.png
+
 
 ## RESULT:
 The program for designing software company website using HTML and CSS is completed successfully.
